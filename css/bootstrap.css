@@ -5802,6 +5802,8 @@ header h1 {
   -ms-box-shadow: 2px 5px 15px rgba(0,0,0,0.3);
   -o-box-shadow: 2px 5px 15px rgba(0,0,0,0.3);
   box-shadow: 2px 5px 15px rgba(0,0,0,0.3);
+  max-width: 460px;
+  margin-bottom: 40px;
 }
 
 .cv-photo:before {
